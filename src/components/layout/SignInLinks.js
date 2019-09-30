@@ -6,7 +6,7 @@ const SignInLinks=()=>{
     return(
         // links to the right
         <ul className="right">
-           <li><NavLink to='/'>New Project</NavLink></li>
+           <li><NavLink to='/'>New Blog Entry</NavLink></li>
            <li><NavLink to='/'>Log Out</NavLink></li>
            <li><NavLink to='/' className="btn btn-floating red">PK</NavLink></li>
         </ul>

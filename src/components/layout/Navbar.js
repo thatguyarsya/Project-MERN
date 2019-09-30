@@ -6,7 +6,7 @@ const Navbar=()=>{
     return(
         <nav className="nav-wrapper light-blue lighten-2">
             <div className="container">
-                <Link to='/' className="brand-logo">Project Blog</Link>
+                <Link to='/' className="brand-logo">ArsyaGO Blog</Link>
                 <SignInLinks/>
                 <SignOutLinks/>
             </div>
